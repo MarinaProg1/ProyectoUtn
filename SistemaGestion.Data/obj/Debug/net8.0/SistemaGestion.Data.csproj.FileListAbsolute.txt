@@ -1,0 +1,16 @@
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\bin\Debug\net8.0\SistemaGestion.Data.deps.json
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\bin\Debug\net8.0\SistemaGestion.Data.dll
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\bin\Debug\net8.0\SistemaGestion.Data.pdb
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\bin\Debug\net8.0\SistemaGestion.Entities.dll
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\bin\Debug\net8.0\SistemaGestion.Entities.pdb
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.AssemblyInfo.cs
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.sourcelink.json
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaG.9B4B671E.Up2Date
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.dll
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\refint\SistemaGestion.Data.dll
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\SistemaGestion.Data.pdb
+C:\Users\marin\source\repos\SistemaGestion\SistemaGestion.Data\obj\Debug\net8.0\ref\SistemaGestion.Data.dll
